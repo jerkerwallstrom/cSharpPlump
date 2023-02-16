@@ -16,5 +16,6 @@ C:\Dev\cSharp\cSharpPlump\obj\Debug\TestWindowsApp.Form1.resources
 C:\Dev\cSharp\cSharpPlump\obj\Debug\TestWindowsApp.Properties.Resources.resources
 C:\Dev\cSharp\cSharpPlump\obj\Debug\TestWindowsApp.Source.PlayersConsoleForm.resources
 C:\Dev\cSharp\cSharpPlump\obj\Debug\PlumpWinApp.csproj.GenerateResource.cache
+C:\Dev\cSharp\cSharpPlump\obj\Debug\PlumpWinApp.csproj.CoreCompileInputs.cache
 C:\Dev\cSharp\cSharpPlump\obj\Debug\TestWindowsApp.exe
 C:\Dev\cSharp\cSharpPlump\obj\Debug\TestWindowsApp.pdb
