@@ -1,0 +1,10 @@
+C:\Users\a403326\Documents\TestProj\TestWindowsApp\bin\Debug\TestWindowsApp.exe.config
+C:\Users\a403326\Documents\TestProj\TestWindowsApp\bin\Debug\TestWindowsApp.exe
+C:\Users\a403326\Documents\TestProj\TestWindowsApp\bin\Debug\TestWindowsApp.pdb
+C:\Users\a403326\Documents\TestProj\TestWindowsApp\obj\Debug\TestWindowsApp.Form1.resources
+C:\Users\a403326\Documents\TestProj\TestWindowsApp\obj\Debug\TestWindowsApp.Properties.Resources.resources
+C:\Users\a403326\Documents\TestProj\TestWindowsApp\obj\Debug\TestWindowsApp.Source.PlayersConsoleForm.resources
+C:\Users\a403326\Documents\TestProj\TestWindowsApp\obj\Debug\PlumpWinApp.csproj.GenerateResource.cache
+C:\Users\a403326\Documents\TestProj\TestWindowsApp\obj\Debug\TestWindowsApp.exe
+C:\Users\a403326\Documents\TestProj\TestWindowsApp\obj\Debug\TestWindowsApp.pdb
+C:\Users\a403326\Documents\TestProj\TestWindowsApp\obj\Debug\PlumpWinApp.csprojAssemblyReference.cache
