@@ -60,7 +60,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\TestWindowsApp\PlumpWinApp.csproj">
+    <ProjectReference Include="..\..\PlumpWinApp.csproj">
       <Project>{6E442445-16F7-4004-B504-C4BB06A2015E}</Project>
       <Name>PlumpWinApp</Name>
     </ProjectReference>

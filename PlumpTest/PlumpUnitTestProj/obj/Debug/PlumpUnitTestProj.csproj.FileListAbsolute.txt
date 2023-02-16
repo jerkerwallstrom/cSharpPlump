@@ -14,3 +14,5 @@ C:\Users\a403326\Documents\TestProj\PlumpTest\PlumpUnitTestProj\obj\Debug\PlumpU
 C:\Users\a403326\Documents\TestProj\PlumpTest\PlumpUnitTestProj\obj\Debug\PlumpUnitTestProj.csproj.CopyComplete
 C:\Users\a403326\Documents\TestProj\PlumpTest\PlumpUnitTestProj\obj\Debug\PlumpUnitTestProj.dll
 C:\Users\a403326\Documents\TestProj\PlumpTest\PlumpUnitTestProj\obj\Debug\PlumpUnitTestProj.pdb
+C:\Dev\cSharp\cSharpPlump\PlumpTest\PlumpUnitTestProj\obj\Debug\PlumpUnitTestProj.dll
+C:\Dev\cSharp\cSharpPlump\PlumpTest\PlumpUnitTestProj\obj\Debug\PlumpUnitTestProj.pdb
